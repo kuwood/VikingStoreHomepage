@@ -162,3 +162,45 @@ p {
   padding: 0px 7px;
   line-height: 30px;
 }
+.footerbar {
+  height: 175px;
+  width: 100%;
+  background-color: #222;
+  text-align: center;
+}
+.footerbar p {
+  color: orange;
+  line-height: 36px;
+  text-align: center;
+  padding-top: 35px;
+  font-size: 24px;
+}
+.footerbar img {
+  line-height: 28px;
+  height: 16px;
+  width: 16px;
+}
+.footerbar a {
+  text-align: center;
+  line-height: 42px;
+  color: white;
+}
+.phone {
+  width: 200px;
+  height: 28px;
+  display: inline-block;
+}
+.phone a {
+  width: 200px;
+  text-align: center;
+}
+.email {
+  text-align: center;
+  height: 28px;
+
+}
+.email a {
+  width: 200px;
+  height: 28px;
+  text-align: center;
+}
